@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8422ff53-a31c-43dc-8560-835c9047f649" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atividade2/atividade10.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atividade2/atividade11.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atividade2/atividade7.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atividade2/atividade8.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/atividade2/atividade9.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../loja/src/loja/aula1.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../loja/src/loja/db.clj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../loja/src/loja/logic.clj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividade2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/atividade2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loja/src/loja/aula2.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atividade2/atividade10.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/atividade2/atividade10.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/atividade2/atividade6.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/atividade2/atividade6.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/repl-port" beforeDir="false" afterPath="$PROJECT_DIR$/target/repl-port" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loja/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../loja/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loja/src/loja/aula1.clj" beforeDir="false" afterPath="$PROJECT_DIR$/../loja/src/loja/aula1.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../loja/src/loja/db.clj" beforeDir="false" afterPath="$PROJECT_DIR$/../loja/src/loja/db.clj" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,14 +26,42 @@
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/atividade2/atividade6.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/atividade2/atividade2.clj">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/atividade2/atividade3.clj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/atividade2/atividade4.clj">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/atividade2/atividade5.clj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/atividade2/atividade7.clj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -50,7 +75,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/atividade2/atividade9.clj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
@@ -62,17 +87,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/atividade2/atividade10.clj">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/atividade2/atividade11.clj">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="420">
-              <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -97,27 +122,7 @@
         <option value="$PROJECT_DIR$/src/atividade2/atividade9.clj" />
         <option value="$PROJECT_DIR$/src/atividade2/atividade11.clj" />
         <option value="$PROJECT_DIR$/src/atividade2/atividade10.clj" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/compiler.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__cljdev_0_8_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__clojure_complete_0_2_5.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__fipp_0_6_17.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__mvxcvi_arrangement_1_2_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__mvxcvi_puget_1_1_1.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__nrepl_0_6_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_clojure_1_10_0.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_rrb_vector_0_0_14.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_core_specs_alpha_0_2_44.xml" />
-        <option value="$PROJECT_DIR$/.idea/libraries/Leiningen__org_clojure_spec_alpha_0_2_176.xml" />
-        <option value="$PROJECT_DIR$/.idea/ClojureProjectResolveSettings.xml" />
+        <option value="$PROJECT_DIR$/src/atividade2/atividade6.clj" />
       </list>
     </option>
   </component>
@@ -160,10 +165,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="cursive.last.file.extension./Users/carolyne.carreira/Desktop/Clojure-introducao/atividadesAlura/src" value="clj" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
+  <component name="ReplState" timestamp="1578071966102">{:repl-history {:ide [], :local [], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -177,6 +184,18 @@
     </option>
   </component>
   <component name="RunManager">
+    <configuration name="Local" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="atividade2" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
       <setting name="replType" value="NREPL" />
       <setting name="execution" value="LEININGEN" />
@@ -234,7 +253,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="REPL" side_tool="true" />
+      <window_info anchor="right" id="REPL" side_tool="true" visible="true" weight="0.32967034" />
       <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Leiningen" />
       <window_info anchor="right" id="Capture Analysis" />
@@ -246,13 +265,33 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade6.clj">
+    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade2.clj">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade3.clj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade4.clj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade5.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade6.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/atividade2/atividade7.clj">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -263,24 +302,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade9.clj">
+    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade11.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="420">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/atividade2/atividade10.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" selection-end-column="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade11.clj">
+    <entry file="file://$PROJECT_DIR$/src/atividade2/atividade9.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+        <state relative-caret-position="135">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
         </state>
       </provider>
     </entry>

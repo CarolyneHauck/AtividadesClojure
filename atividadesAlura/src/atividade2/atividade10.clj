@@ -3,6 +3,7 @@
 
 (println (atividade2.atividade11/todos-os-pedidos))
 
+; estou agrupando todos os pedidos pela key usuario
 (println (group-by :usuario (atividade2.atividade11/todos-os-pedidos)))
 
 (println (group-by minha-funcao-de-agrupamento (atividade2.atividade11/todos-os-pedidos)))

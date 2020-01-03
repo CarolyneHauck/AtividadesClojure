@@ -23,7 +23,7 @@
 ; Final:
 
 (def pedido {:mochila { :quantidade 2, :preco 80}
-                                               :camiseta {:quantidade 3, :preco 40}})
+             :camiseta {:quantidade 3, :preco 40}})
 
 (defn preco-total-do-produto [produto]
   (* (:quantidade produto) (:preco produto)))
